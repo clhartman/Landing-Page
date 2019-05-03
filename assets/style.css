@@ -1,0 +1,15 @@
+.navbar-custom {
+  background-color: #8b5d5d;
+  color: #f0e9e9;
+}
+
+body {
+  font-family: 'News Cycle', sans-serif;
+}
+
+.header-container {
+  padding: 25px 78px;
+  background: #f0e9e9;
+  color: #8b5d5d; 
+}
+
