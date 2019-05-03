@@ -1,5 +1,5 @@
 .navbar-custom {
-  background-color: #8b5d5d;
+  background-color: #634444;
   color: #f0e9e9;
 }
 
@@ -11,5 +11,18 @@ body {
   padding: 25px 78px;
   background: #f0e9e9;
   color: #8b5d5d; 
+}
+
+.header-row {
+  padding: 3vh;
+}
+
+.image-row {
+  border-radius: 3px;
+}
+.main-container {
+  padding: 25px 78px;
+  background: #f0e9e9;
+  color: #8b5d5d;
 }
 
