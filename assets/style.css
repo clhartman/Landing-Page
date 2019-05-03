@@ -7,7 +7,7 @@ body {
   font-family: 'News Cycle', sans-serif;
 }
 
-.header-container {
+.main-header {
   padding: 25px 78px;
   background: #f0e9e9;
   color: #8b5d5d; 
@@ -17,9 +17,6 @@ body {
   padding: 3vh;
 }
 
-.image-row {
-  border-radius: 3px;
-}
 .main-container {
   padding: 25px 78px;
   background: #f0e9e9;
